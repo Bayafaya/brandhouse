@@ -151,6 +151,8 @@ export default {
   justify-content: center;
   align-items: center;
   padding: 20px 0;
+  background: #fff;
+  border-radius: 4px;
 }
 .product__header div:nth-child(1) {
   position: absolute;
@@ -170,6 +172,7 @@ export default {
 }
 .product__header img {
   height: 120px;
+
 }
 .product__footer {
   display: flex;
